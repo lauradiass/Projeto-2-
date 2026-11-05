@@ -1,0 +1,18 @@
+ background-color: #f4f4f9;
+    font-family: Arial, sans-serif;
+    color: #333333;
+    margin: 20px;
+    font-family: 'Georgia', serif;
+    color: #cc81a1;
+
+    background-color: #f5e9f4;
+    color: #a68aa5;
+    padding: 10px;
+    margin: 15px 0;
+    border-left: 4px solid #cc81a1;
+
+    background-color: #ffffff;
+    padding: 8px;
+    margin-bottom: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
