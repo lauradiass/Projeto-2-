@@ -1,11 +1,13 @@
- background-color: #f4f4f9;
+ body {
+    background-color: #f4f4f9;
     font-family: Arial, sans-serif;
     color: #333333;
     margin: 20px;
-
+}
+h1,h2 {
     font-family: 'Georgia', serif;
     color: #b30000;
-
+}
 .destaque {
     background-color: #ffe6e6;
     color: #990000;
@@ -14,7 +16,7 @@
     border-left: 4px solid #b30000;
 }
 li div {
-    background-color: #ffffff;
+    background-color: #f5f5dc;
     padding: 8px;
     margin-bottom: 5px;
     border: 1px solid #ddd;
